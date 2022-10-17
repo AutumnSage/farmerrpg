@@ -1,1 +1,2 @@
-# farmerrpg
+# ProjectFarm
+Farming game repository
